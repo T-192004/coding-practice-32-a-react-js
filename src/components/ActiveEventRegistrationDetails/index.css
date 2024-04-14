@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.initial {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  max-width: 400px;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+}
+.registration-card {
+  display: flex;
+  flex-direction: column;
+  max-width: 360px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+  text-align: center;
+}
+.registration-img {
+  width: 40%;
+  height: 40%;
+}
+.registration-title {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.registration-content {
+  color: #475569;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.registration-btn {
+  background-color: #0967d2;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
